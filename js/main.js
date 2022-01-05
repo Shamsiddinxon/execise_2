@@ -25,7 +25,7 @@ elForm.addEventListener('submit', function(evt) {
 
     console.log(agg(inputValue));
     elResult.textContent = `Hisob-kitob: ${inputValue}`;
-    elResultUslug.textContent = `Maslaxat: ${maslaxat}`;
+    elResultUslug.textContent = `Hizmat: ${maslaxat}`;
     elResultJami.textContent = `Jami: ${jami}`;
-    elResultUslugalar.textContent = `Uslugalar: ${usluga}`;
+    elResultUslugalar.textContent = `Hizmatlar: ${usluga}`;
 })
