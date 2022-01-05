@@ -1,0 +1,13 @@
+.form__result, .form__result1, .form__result2, .form__result3 {
+    height: 40px;
+    max-width: 215px;
+    padding: 5px 5px;
+    color: green;
+    border: 1px solid green;
+    text-align: center;
+    border-radius: 0.25rem;
+}
+
+.form__input {
+    text-align: center;
+}
