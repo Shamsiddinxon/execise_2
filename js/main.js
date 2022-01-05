@@ -7,9 +7,9 @@ let elResultUslugalar = document.querySelector(".form__result3");
 
 
 const agg = function (Value) {
-    let age;
-    50 <= Value && Value <= 300 ? age = Value * (15/100) :age = Value * (20/100);
-    return age;
+    let ag1;
+    50 <= Value && Value <= 300 ? ag1 = Value * (15/100) :ag1 = Value * (20/100);
+    return ag1;
 }
 
 let usluga = []
